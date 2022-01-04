@@ -34,7 +34,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import '~bulma/sass/utilities/variables';
+@import '~bulma/sass/utilities/_all';
 @import "~progress-tracker/app/styles/_progress-tracker.scss";
 
 .progress-step:not(:last-child)::after {
